@@ -24,7 +24,7 @@ A Flutter boilerplate project featuring user authentication with Supabase and ba
 1. **Clone** the repository:
 
     ```bash
-    git clone https://github.com/almanoduerme/flutter-supabase-boilerplate.git
+    git clone https://github.com/almanoduerme/flutter-starter-with-supabase-auth.git
     cd flutter-supabase-boilerplate
     ```
 
